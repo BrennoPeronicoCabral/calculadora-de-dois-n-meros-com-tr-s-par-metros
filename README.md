@@ -1,1 +1,0 @@
-# calculadora-de-dois-n-meros-com-tr-s-par-metros
